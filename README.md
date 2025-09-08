@@ -1,2 +1,2 @@
 # Smart-Mirror-Health-Tracking
-
+A Smart Mirror with Health Tracking is an innovative device that looks like a regular mirror but integrates technology to display useful information on its surface. It combines health monitoring, daily reminders, and general lifestyle updates in one system. By using a two-way mirror with a display screen and a controller such as Raspberry Pi or a PC, the mirror can show data like weight, heart rate, BMI, step count, and sleep patterns. Alongside this, it provides reminders for medicines, hydration, and appointments, while also showing time, weather, and calendar events.
